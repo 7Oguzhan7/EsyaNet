@@ -1,3 +1,4 @@
+// EşyaNet Web Application - Live GitHub Sync Test
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
